@@ -27,3 +27,4 @@ fun main(){
     ucok.info()
     println("Jenis Kelas = " + ucok.javaClass.simpleName)
 }
+
